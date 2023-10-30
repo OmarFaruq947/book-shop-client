@@ -4,7 +4,7 @@
 
 - Live Link:
 
-- Your Frontend Github Repository Link:
+- Your Frontend Github Repository Link: https://github.com/OmarFaruq947/book-shop-client
 - Your Backend Github Repository Link: https://github.com/OmarFaruq947/book-shop-server
 - API : https://islamic-book-shop-server-omarfaruq947.vercel.app/api/v1/books
 
@@ -42,4 +42,5 @@ Authenticated users can edit book information by accessing an edit form. The for
 Users can add books they plan to read in the future to their wishlist, keeping track of their reading goals. Additionally, users can create lists for books they are currently reading or have finished reading. This feature enhances user engagement and personalization of their reading experience.
 
 Our Book Catalog Application aims to provide a seamless and enjoyable platform for book enthusiasts to explore, discover, and engage with a wide variety of books. Whether you are an avid reader or just getting started on your reading journey, our application is designed to meet your needs and enhance your love for books. Happy reading!
+
 # book-shop-client

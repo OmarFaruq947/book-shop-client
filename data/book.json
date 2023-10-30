@@ -1,0 +1,272 @@
+[
+  {
+    "title": "উমরাহ কিভাবে করবেন?",
+    "author": "শায়খ আহমাদুল্লাহ",
+    "image": "https://i.ibb.co/Y4SGmbQ/image.jpg",
+    "genre": "ইসলামি",
+    "publicationDate": "1997",
+    "authorEmail": "faruq@gmail.com",
+    "reviews": [
+      {
+        "review": "উমরাহ সম্পর্কে বাংলাভাষায় স্বতন্ত্র ভালো কোনো বই আমার চোখে পড়েনি",
+        "reviewer": "64bd5f8d550883e538a98d95",
+        "_id": "64c1b24d958897b64fb07e2a"
+      }
+    ],
+    "createdAt": "2023-07-23T17:13:49.418Z",
+    "updatedAt": "2023-07-26T14:59:25.314Z"
+  },
+  {
+    "title": "দৈনন্দিন জীবনের ২৪ ঘন্টার সুন্নাহ ও মাসায়েল",
+    "author": "ইসলামি",
+    "image": "https://i.ibb.co/qppVw5X/image.jpg",
+    "genre": " Classic Fiction, Historical Fiction",
+    "publicationDate": "1925",
+    "authorEmail": "faruq@gmail.com",
+    "reviews": [
+      {
+        "review": "The book is so good\n",
+        "reviewer": "64bd5f8d550883e538a98d95",
+        "_id": "64c1b24d958897b64fb07e2a"
+      },
+      {
+        "review": "The book is very much interesting",
+        "reviewer": "64bd5f8d550883e538a98d95",
+        "_id": "64c1b44a919b220aac0d4809"
+      }
+    ],
+    "createdAt": "2023-07-25T20:53:11.163Z",
+    "updatedAt": "2023-07-29T15:35:27.889Z"
+  },
+  {
+    "title": "ফাতেমা বিনতে মুহাম্মাদ সা.",
+    "author": "ইসলামি",
+    "image": "https://i.ibb.co/dpNwMsP/image.jpg",
+    "genre": "Classic Fiction",
+    "publicationDate": "1960",
+    "authorEmail": "faruq@gmail.com",
+    "reviews": [
+      {
+        "review": "This book is interesting",
+        "reviewer": "64bd60a3550883e538a98d9f",
+        "_id": "64c1b885919b220aac0d4876"
+      },
+      {
+        "review": "Horror",
+        "reviewer": "64bd60a3550883e538a98d9f",
+        "_id": "64c1b8f4c5c57554c8999fa2"
+      },
+      {
+        "review": "lksfdgs\n",
+        "reviewer": "64c6482b97eed42619a8d5c9",
+        "_id": "64c649a797eed42619a8d5f9"
+      }
+    ],
+    "createdAt": "2023-07-26T15:10:36.774Z",
+    "updatedAt": "2023-07-30T11:29:43.513Z"
+  },
+  {
+    "title": "ইসলামের দৃষ্টিতে লিডারশীপ",
+    "author": "Jane Austen ",
+    "image": "https://i.ibb.co/02L2d4P/image.jpg",
+    "genre": "ইসলামি",
+    "publicationDate": "1813",
+    "authorEmail": "faruq@gmail.com",
+    "reviews": [
+      {
+        "review": "Nice book\n",
+        "reviewer": "64bd60a3550883e538a98d9f",
+        "_id": "64c530b1d4e929dd87c25552"
+      },
+      {
+        "review": "So nice",
+        "reviewer": "64bd60a3550883e538a98d9f",
+        "_id": "64c5318a03bc01318066e9f9"
+      }
+    ],
+    "createdAt": "2023-07-26T15:12:12.631Z",
+    "updatedAt": "2023-07-29T15:34:34.619Z"
+  },
+  {
+    "title": "কুরআনের ও হাদীসের আলোকে চোখে দেখা কবরের আযাব",
+    "author": "Karen Armstrong",
+    "image": "https://i.ibb.co/mbDDGZS/image.jpg",
+    "genre": "ইসলামি",
+    "publicationDate": "2000",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [
+      {
+        "review": "bbbf",
+        "reviewer": "64d7993268006e4d8b4d92be",
+        "_id": "64d8b99c04bb8788ac5aa846"
+      }
+    ],
+    "createdAt": "2023-07-29T16:57:17.874Z",
+    "updatedAt": "2023-08-13T11:08:13.010Z"
+  },
+  {
+    "title": "পবিত্র বাইবেল পরিচিতি ও পর্যালোচনা",
+    "author": "Yasmin Mogahed",
+    "image": "https://i.ibb.co/MVtrmx8/image.jpg",
+    "genre": "Self-Help/Spirituality",
+    "publicationDate": "2012",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T16:58:50.592Z",
+    "updatedAt": "2023-07-29T16:58:50.592Z"
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum and David J. Wetherall",
+    "image": "https://i.ibb.co/6ZmJjx1/image.jpg",
+    "genre": "Computer Networks",
+    "publicationDate": "2020",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T19:58:44.893Z",
+    "updatedAt": "2023-07-29T19:58:44.893Z"
+  },
+  {
+    "title": "প্রশ্নোত্তরে সীরাতুন্নবি (সা)",
+    "author": " Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",
+    "image": "https://i.ibb.co/vdzkvKs/image.jpg",
+    "genre": " Algorithms",
+    "publicationDate": "1990",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:00:22.962Z",
+    "updatedAt": "2023-07-29T20:00:22.962Z"
+  },
+  {
+    "title": "ডেসটিনি ডিজরাপ্টেড",
+    "author": "Abraham Silberschatz, Henry F. Korth, and S. Sudarshan",
+    "image": "https://i.ibb.co/238mgtm/image.jpg",
+    "genre": "Database Systems",
+    "publicationDate": "2010",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:04:40.276Z",
+    "updatedAt": "2023-07-29T20:05:18.516Z"
+  },
+  {
+    "title": "মুসা আলাইহিস সালাম",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/mtKT9bY/image.jpg",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/238mgtm/image.jpg",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/mtKT9bY/image.jpg",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/YTWRgBh/R.png",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/ZSsSTkh/image.jpg",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/7v6Kb4G/image.jpg",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/256GKGM/image.png",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/fFQdL4T/image.png",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/JRhg8jJ/image.png",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/wWYrVW4/image.png",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  },
+  {
+    "title": "",
+    "author": "Michael Sipser",
+    "image": "https://i.ibb.co/8zv0cGR/image.png",
+    "genre": "Theory of Computation",
+    "publicationDate": "1997",
+    "authorEmail": "omar@gmail.com",
+    "reviews": [],
+    "createdAt": "2023-07-29T20:08:17.509Z",
+    "updatedAt": "2023-07-29T20:08:17.509Z"
+  }
+]
