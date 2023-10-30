@@ -17,7 +17,10 @@ interface BookFormData {
 export default function AddBookForm() {
   const navigate = useNavigate();
   const { data } = useGetMyProfileQuery(undefined);
-  console.log('add book from data ->>>>', data);
+  const userEmail = (data as any)?.data?.email || '';
+
+  // const userEmail = data?.data?.email || '';
+  console.log('add book from data ->>>>', userEmail);
   const [createBook] = useCreateBookMutation();
   // const user = data?.data?.email;
   // console.log('user->>>>', user);
@@ -25,7 +28,7 @@ export default function AddBookForm() {
   const [formData, setFormData] = useState<BookFormData>({
     title: '',
     author: '',
-    authorEmail: data?.data?.email,
+    authorEmail: userEmail,
     genre: '',
     publicationDate: '',
     image: '',

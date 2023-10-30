@@ -1,14 +1,14 @@
-import WishlistCard from "@/components/WishlistCard";
-import { useGetWishlistQuery } from "@/redux/features/user/userApi";
-import { IBook } from "@/types/global";
+import WishlistCard from '@/components/WishlistCard';
+import { useGetWishlistQuery } from '@/redux/features/user/userApi';
+import { IBook } from '@/types/global';
 
 export default function Wishlist() {
   const { data } = useGetWishlistQuery(undefined);
-  const books = data?.data;
+  const books = (data as any)?.data;
 
   return (
     <div className="py-8 max-w-7xl mx-auto">
-      <h1 className="text-xl font-black text-primary uppercase mb-4" >
+      <h1 className="text-xl font-black text-primary uppercase mb-4">
         Wishlist
       </h1>
       {books?.length ? (
@@ -23,6 +23,5 @@ export default function Wishlist() {
         </div>
       )}
     </div>
-  )
+  );
 }
-

@@ -20,7 +20,8 @@ import 'react-toastify/dist/ReactToastify.css';
 export function FinishedReadingBookListTable() {
   const { data } = useGetFinishedReadingQuery(undefined);
   const [removeFromFinishedReading] = useRemoveFromFinishedReadingMutation();
-  const books = data?.data;
+  // const books = data?.data;
+  const books = (data as any)?.data;
 
   const handleRemoveFromFinishedReading = async (bookId: string) => {
     const response: any = await removeFromFinishedReading({ id: bookId });

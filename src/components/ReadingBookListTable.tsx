@@ -22,7 +22,8 @@ export function ReadingBookListTable() {
   const { data } = useGetReadingListQuery(undefined);
   const [addToFinishedReading] = useAddToFinishedReadingMutation();
   const [removeFromReadingList] = useRemoveFromReadingListMutation();
-  const books = data?.data;
+
+  const books = (data as any)?.data;
   const handleAddToFinishedReading = async (bookId: string) => {
     const response: any = await addToFinishedReading({ id: bookId });
     if (response.error) {

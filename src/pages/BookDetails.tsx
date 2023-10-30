@@ -28,7 +28,8 @@ export default function BookDetails() {
 
   const book = data?.data;
   console.log('single book data---->>', book);
-  const user = userData?.data;
+  const user = (userData as any)?.data;
+
   console.log('user data--->>>', user);
 
   let authorEmail = false; // initial value false
