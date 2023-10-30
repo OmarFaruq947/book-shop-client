@@ -18,7 +18,7 @@ export default function AllBooks() {
   const [filteredPublicationDates, setFilteredPublicationDates] = useState<
     string[]
   >([]);
-  console.log(filteredGenres);
+  // console.log(filteredGenres);
   const [selectedFilterType, setSelectedFilterType] = useState('manual');
   const [searchTerm, setSearchTerm] = useState('');
   const navigate = useNavigate();
@@ -36,7 +36,7 @@ export default function AllBooks() {
   // Convert the Set back to an array to get unique values
   const uniqueGenres = Array.from(new Set(genres));
 
-  console.log('unique array-->', uniqueGenres);
+  // console.log('unique array-->', uniqueGenres);
 
   const extractYearFromDate = (date: string) => {
     return new Date(date)?.getFullYear()?.toString();

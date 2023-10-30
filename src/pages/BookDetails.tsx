@@ -27,10 +27,10 @@ export default function BookDetails() {
   const { data: userData } = useGetMyProfileQuery(undefined);
 
   const book = data?.data;
-  console.log('single book data---->>', book);
+  // console.log('single book data---->>', book);
   const user = (userData as any)?.data;
 
-  console.log('user data--->>>', user);
+  // console.log('user data--->>>', user);
 
   let authorEmail = false; // initial value false
 
@@ -47,7 +47,7 @@ export default function BookDetails() {
     } else {
       toast.success(response?.data?.message);
     }
-    console.log(response);
+    // console.log(response);
   };
 
   const handleAddToReadingList = async () => {

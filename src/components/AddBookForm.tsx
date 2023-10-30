@@ -19,10 +19,9 @@ export default function AddBookForm() {
   const { data } = useGetMyProfileQuery(undefined);
   const userEmail = (data as any)?.data?.email || '';
 
-  // const userEmail = data?.data?.email || '';
-  console.log('add book from data ->>>>', userEmail);
+  // console.log('add book from data ->>>>', userEmail);
   const [createBook] = useCreateBookMutation();
-  // const user = data?.data?.email;
+
   // console.log('user->>>>', user);
 
   const [formData, setFormData] = useState<BookFormData>({
@@ -52,7 +51,7 @@ export default function AddBookForm() {
       toast.success(response?.data?.message);
       navigate('/all-books');
     }
-    console.log(response);
+    // console.log(response);
   };
 
   return (

@@ -23,7 +23,7 @@ export default function BookCard(book: IBook) {
     } else {
       toast.success(response.data.message);
     }
-    console.log(response);
+    // console.log(response);
   };
 
   const handleAddToReadingList = async () => {

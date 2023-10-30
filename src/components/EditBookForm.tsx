@@ -12,11 +12,8 @@ import { toast } from 'react-toastify';
 export default function EditBookForm() {
   const { id } = useParams();
   const navigate = useNavigate();
-
   const [updateBook, { isLoading }] = useUpdateBookMutation();
-
   const { data } = useSingleBookQuery(id);
-
   const book = data?.data;
   // console.log(book);
   // Initialize form state with initial values from the book object
@@ -28,7 +25,7 @@ export default function EditBookForm() {
     publicationDate: book?.publicationDate || '',
     image: book?.image || '',
   });
-  console.log('form data---->', formData);
+  // console.log('form data---->', formData);
   const onSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 

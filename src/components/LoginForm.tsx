@@ -30,7 +30,7 @@ export function LoginForm() {
       toast.success(response.data.message);
       navigate('/');
     }
-    console.log(response);
+    // console.log(response);
   };
 
   return (
