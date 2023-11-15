@@ -12,7 +12,7 @@ Backend:
 
 - Your Backend Github Repository Link: https://github.com/OmarFaruq947/book-shop-server
 
-- API : https://islamic-book-shop-server-omarfaruq947.vercel.app/api/v1/books
+- API : https://islamic-book-shop-server.vercel.app/api/v1/books
 
 ##
 
