@@ -12,7 +12,7 @@ const addAuthTokenToHeaders = (headers: Headers) => {
 export const api = createApi({
   reducerPath: 'api',
   baseQuery: fetchBaseQuery({
-    baseUrl: 'https://islamic-book-shop-server-omarfaruq947.vercel.app/api/v1',
+    baseUrl: 'https://islamic-book-shop-server.vercel.app/api/v1',
     prepareHeaders: (headers) => {
       const newHeaders = new Headers(headers);
       addAuthTokenToHeaders(newHeaders);
