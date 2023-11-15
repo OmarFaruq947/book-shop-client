@@ -4,7 +4,7 @@
 
 Frontend:
 
-- Live Link: https://book-shop-client-one.vercel.app/
+- Live Link: https://main--bejewelled-fairy-e94c87.netlify.app/
 
 - Your Frontend Github Repository Link: https://github.com/OmarFaruq947/book-shop-client
 
