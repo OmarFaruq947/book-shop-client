@@ -4,7 +4,7 @@
 
 Frontend:
 
-- Live Link: https://main--fanciful-marigold-baa24f.netlify.app/
+- Live Link: https://book-shop-client-one.vercel.app/
 
 - Your Frontend Github Repository Link: https://github.com/OmarFaruq947/book-shop-client
 
